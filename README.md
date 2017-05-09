@@ -19,4 +19,6 @@ read barcode and QRcode
   QRcode reader  
 * https://github.com/lincolnloop/python-qrcode  
   QRcode image generator  
-
+* https://github.com/Nearoo/pygame-text-input    
+  pygame text input class  
+  
