@@ -14,5 +14,9 @@ read barcode and QRcode
   
 ### References  
 * https://github.com/zplab/zbar-py  
+  BARcode reader  
 * https://github.com/Polyconseil/zbarlight  
+  QRcode reader  
+* https://github.com/lincolnloop/python-qrcode  
+  QRcode image generator  
 
